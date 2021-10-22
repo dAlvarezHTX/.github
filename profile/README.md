@@ -1,6 +1,6 @@
 # Innovation @ Neudesic
 
-![Innovation @ Neudesic](https://raw.githubusercontent.com/neudesic/.github/main/.github/images/innovation.jpg)
+![Innovation @ Neudesic](https://github.com/neudesic/.github/blob/main/images/innovation.jpg?raw=true)
 
 Who is Neudesic? We love what we do and we do what we love: building really cool technology solutions for ourselves and our clients. We are passionnate about succeeding and taking on challenges that others hide from. We believe in being innovative and pushing each other to grow every day. We embrace conflict, trust and commit to each other, and we pursue excellence in everything that we do. We are Neudesic!
 
