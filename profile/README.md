@@ -1,5 +1,7 @@
 # Innovation @ Neudesic
 
+![Innovation @ Neudesic](innovation.jpg)
+
 Who is Neudesic? We love what we do and we do what we love: building really cool technology solutions for ourselves and our clients. We are passionnate about succeeding and taking on challenges that others hide from. We believe in being innovative and pushing each other to grow every day. We embrace conflict, trust and commit to each other, and we pursue excellence in everything that we do. We are Neudesic!
 
 To learn more about Neudesic and the services that we provide, check out our [website](https://www.neudesic.com).
