@@ -6,7 +6,7 @@ Who is Neudesic? We love what we do and we do what we love: building really cool
 
 To learn more about Neudesic and the services that we provide, check out our [website](https://www.neudesic.com).
 
-## Our Innovation Community
+## Join Our Innovation Community
 
 Innovation is a core value of Neudesic. We are constantly working to build better tools, products, and services for our customers and each other. At Neudesic, we have adopted [innersource](https://resources.github.com/whitepapers/introduction-to-innersource/) techniques and collaborate with our peers globally. We are working on some very cool ideas and are always on the lookout for new and talented people to join our team.
 
